@@ -15,3 +15,14 @@
 - Corrigir os comentários deixados
 - Aguardar o aceite do pull request
 - Atualizar a sua branch local com as mudanças aceitas
+
+
+## Perguntas teóricas
+
+- Por que utilizamos metodologias ágeis ao invés da tradicional/cascata?
+- Qual a importância de fazermos uma boa descrição de merge request?
+- Fale brevemente sobre as etapas de desenvolvimento de software:
+    - Análise
+    - Desenvolvimento
+    - Teste
+    - Concluído
